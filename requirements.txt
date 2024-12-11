@@ -1,0 +1,5 @@
+numpy
+pandas
+pickle5  # If pickle is used for compatibility; otherwise, it is built into Python.
+scikit-learn  # For sklearn
+streamlit
